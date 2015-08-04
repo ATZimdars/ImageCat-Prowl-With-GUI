@@ -8,7 +8,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import javax.swing.*;
 
-public class imagecatMoveWindow
+public class imagecatProwl
 {
 	public static int after1 = 0;
 	public static boolean canWork = false;
